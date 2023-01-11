@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ser._and_Des._Using_String_Builder_V1._5__OOP
+build_property.ProjectDir = C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\

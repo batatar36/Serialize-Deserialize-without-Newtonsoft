@@ -1,0 +1,15 @@
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\bin\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.exe
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\bin\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.deps.json
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\bin\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.runtimeconfig.json
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\bin\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.dll
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\bin\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.pdb
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.csproj.AssemblyReference.cache
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.AssemblyInfoInputs.cache
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.AssemblyInfo.cs
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.dll
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\refint\Ser. and Des. Using String Builder V1.5 -OOP.dll
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.pdb
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\Ser. and Des. Using String Builder V1.5 -OOP.genruntimeconfig.cache
+C:\Users\Sistem\Desktop\Bahadır\C# Basics\Ser. and Des. Using String Builder V1.5 -OOP\Ser. and Des. Using String Builder V1.5 -OOP\obj\Debug\net6.0\ref\Ser. and Des. Using String Builder V1.5 -OOP.dll

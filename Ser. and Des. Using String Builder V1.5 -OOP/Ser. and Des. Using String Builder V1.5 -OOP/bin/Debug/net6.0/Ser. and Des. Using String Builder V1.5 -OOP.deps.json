@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ser. and Des. Using String Builder V1.5 -OOP/1.0.0": {
+        "runtime": {
+          "Ser. and Des. Using String Builder V1.5 -OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ser. and Des. Using String Builder V1.5 -OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
